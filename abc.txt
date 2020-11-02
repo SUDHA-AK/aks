@@ -1,3 +1,5 @@
 CPU
 KEYBOARD
 MOUSE
+
+monitor
